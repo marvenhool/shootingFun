@@ -1,5 +1,5 @@
 # learn_js
 
-シューティングゲームを作成しました。
-言語：ｊｓ
-フレームワーク：cocos2D—html5
+射撃ゲームを作ってみました。
+言語：javaScript
+フレームワーク：cocos2D—js    http://www.cocos2d-x.org/products
